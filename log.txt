@@ -1,0 +1,10 @@
+
+   37  cd /Users/lihsuanchin/Jupyter/Pandas 
+   38  git init
+   39  git add .
+   40  git commit -m "upload"
+   41  git remote add TA_last "https://github.com/alalachin/TA.git"
+   42  git push TA_last
+   43  git push TA_last master
+   44  history
+   45  history > log.txt
